@@ -7,9 +7,9 @@ https://www.youtube.com/watch?v=3njgQK_a20I&list=PLMaFfEa45zswpscmW6ue18xYKVePYr
 * Erklärung von RESTful API
 * Google Key lösen für den Zugriff
 * Python Programm erstellen für:
-* REST API Abfrage mit GET
-* Verarbeitung einer Antwort im JSON Format
-* GUI um die Daten anzuzeigen
+  * REST API Abfrage mit GET
+  * Verarbeitung einer Antwort im JSON Format
+  * GUI um die Daten anzuzeigen
 
 
 
